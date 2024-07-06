@@ -1,5 +1,4 @@
-
-###Olá! Eu sou o Pedro 👋
+Olá! Eu sou o Pedro 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohenriqueverginio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javierzinkk)
@@ -7,7 +6,7 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=ogpdx&show_icons=true&theme=radical)
 
-###Tecnologias que utilizo no dia a dia
+Tecnologias que utilizo no dia a dia
 
 <div style="display: inline_block"><br/>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
