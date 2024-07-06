@@ -19,4 +19,4 @@
 ## Me contate através de
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://criarmeulink.com.br/u/1720303443)
+)]pedrohenriqueverginio0@gmail.com
