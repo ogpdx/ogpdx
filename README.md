@@ -19,8 +19,14 @@
 
 ## Contact me 
 
-<div style="display: inline_block"><br/>
-<img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"(https://wa.me/5534992059855)>
-(https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriqueverginio0@gmail.com)
+<a href="https://wa.me/5534992059855" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
-pedrohenriqueverginio0@gmail.com
+<a href="mailto:pedrohenriqueverginio0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="(https://www.linkedin.com/in/pedro-henrique-verginio/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
