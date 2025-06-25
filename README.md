@@ -17,8 +17,8 @@
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-## Me contate através de
+## Contact me 
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)]()
+<img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"(https://wa.me/5511999999999)>
+
 pedrohenriqueverginio0@gmail.com
